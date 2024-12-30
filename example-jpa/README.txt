@@ -1,0 +1,1 @@
+Este proyecto fue presentado como proyecto final en la clase Desarrollo de aplicaciones empresariales, esta usa postgresql, servlet y persistence para el manejo de productos en un carrito de compras asi como una vista diferente al entrar como administrador.
